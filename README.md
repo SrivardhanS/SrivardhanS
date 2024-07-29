@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Srivardhan+S!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+<h3 align="center">I am a 3rd year CSE student at Sri Sivasubramaniya Nadar College of Engineering  </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **an online marketplace**
  
  🌱 I’m currently learning **Docker, ML, AWS**
 
@@ -34,9 +34,10 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>  -->  
 <!-- sqlite, safari, google-chrome are other good icon options -->
-  <a href="https://twitter.com/srivardhan_s" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
+  <!-- <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </a>  Add twitter's logo-->
+
 </div>
 
  <hr/>

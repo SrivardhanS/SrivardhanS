@@ -19,3 +19,32 @@
 ⚡ Fun fact **Did you know? The first-ever computer bug was a real moth found in a computer in 1947! 🦋**
 
  </div>
+
+<div align="center"> 
+  <a href="mailto:srivardhan.er@gmail.com">      
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>   
+  <!-- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=srivardhan.er@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a> This opens gmail instead of mailto  -->
+  <a href="https://linkedin.com/in/srivardhan-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!--  <a href="https://github.com/SrivardhanS" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>  -->  
+<!-- sqlite, safari, google-chrome are other good icon options -->
+</div>
+
+ <hr/>
+
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,python,html,css,nodejs,python,angular,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=mongodb,java,nextjs,mysql,flask,vscode,github,figma,git" /><br>
+</div>
+
+<br/>
+<hr/>
+

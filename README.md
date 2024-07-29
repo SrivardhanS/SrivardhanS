@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Srivardhan+S!;" />
 </h1>
 
-<h3 align="center">I am a 3rd year CSE student at Sri Sivasubramaniya Nadar College of Engineering  </h3>
+<h3 align="center">I am a 3rd year CSE student at Sri Sivasubramaniya Nadar College of Engineering.  </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an online marketplace**
+ 🔭 I’m currently working on **an online marketplace**.
  
- 🌱 I’m currently learning **Docker, ML, AWS**
+ 🌱 I’m currently learning **Docker, ML, AWS**.
 
-💬 Ask me about **Java, Angular, MongoDB, SQL ... or anything [here](https://github.com/SrivardhanS/SrivardhanS/issues)**
+💬 Ask me about **Java, Angular, MongoDB, SQL ... or anything [here](https://github.com/SrivardhanS/SrivardhanS/issues)**.
 
-⚡ Fun fact **Did you know? The first-ever computer bug was a real moth found in a computer in 1947! 🦋**
+🦋 Fun fact: **Did you know? The first-ever computer bug was a real moth found in a computer in 1947!**
 
  </div>
 
@@ -42,7 +42,7 @@
 
  <hr/>
 
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ <h2 align="center">⚒️ Languages-Frameworks-Tools :</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,python,html,css,nodejs,python,angular,javascript,typescript" />
@@ -53,7 +53,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Contributions :</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SrivardhanS/SrivardhanS/output/github-contribution-grid-snake.svg" />
   
@@ -62,7 +62,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats :</h2>
 <br>
 <!-- This might require some future updates-->
 <div align=center>  
@@ -75,7 +75,7 @@
 <hr/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:)" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+Linkedin+:)" />
 </h3>
 
 <br/>

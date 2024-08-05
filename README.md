@@ -18,6 +18,7 @@
 
 🦋 Fun fact: **Did you know? The first-ever computer bug was a real moth found in a computer in 1947!**
 
+Connect with me on:
  </div>
 
 <div align="center"> 

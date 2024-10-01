@@ -11,7 +11,7 @@
 <div align="center">
  
 
-💬 Ask me about **Java, JS, React,SQL ... or anything [here](https://github.com/SrivardhanS/SrivardhanS/issues)**.
+💬 Ask me about **Java, JS, Python, SQL ... or anything [here](https://github.com/SrivardhanS/SrivardhanS/issues)**.
 
 🦋 Fun fact: **Did you know? The first-ever computer bug was a real moth found in a computer in 1947!**
 

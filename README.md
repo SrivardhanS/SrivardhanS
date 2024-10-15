@@ -44,7 +44,7 @@ Connect with me on:
  <h2 align="center">⚒️ Languages, Frameworks, & Tools :</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nodejs,python,angular,javascript,typescript,mongodb,java,nextjs,mysql,flask,vscode,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nodejs,python,angular,javascript,typescript,mongodb,java,nextjs,mysql,github,vscode,git&perline=8" />
     <!-- <img src="https://skillicons.dev/icons?i=" /><br> -->
 </div>
 

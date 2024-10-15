@@ -1,9 +1,8 @@
 <img align="right" src= "https://visitor-badge.laobi.icu/badge?page_id=SrivardhanS.SrivardhanS" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Srivardhan+S!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00fff7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Srivardhan+S!;" />
 </h1>
-
 
 <h3 align="center">I am a 3rd year CSE student at Sri Sivasubramaniya Nadar College of Engineering.  </h3>
 
@@ -74,7 +73,7 @@ Connect with me on:
 <hr/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+Linkedin+:)" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=00fff7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+Linkedin+:)" />
 </h3>
 
 <br/>

@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </a> -->
 
-<h2 align="center">⚒️ Languages, Frameworks, & Tools:</h2>
+<h2 align="center">🚀 Languages, Frameworks, & Tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nodejs,python,angular,javascript,typescript,mongodb,java,nextjs,mysql,github,vscode,git&perline=8" />
@@ -35,13 +35,13 @@
 <!-- <img src="https://skillicons.dev/icons?i=" /><br> -->
 
 <div align="center">
-  <h2>🐍 My Contributions:</h2>
+  <h2>📊 My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SrivardhanS/SrivardhanS/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
-<h2 align="center">⚡ Stats:</h2>
+<h2 align="center">⚡ Stats</h2>
 
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=SrivardhanS&count_private=true&theme=react&border_radius=10" alt="streak stats" />
@@ -51,7 +51,7 @@
 </div>
 
 <!-- This might require some future updates -->
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">💬 Connect with me</h2>
 
 <div align="center">
   <a href="mailto:srivardhan.er@gmail.com">

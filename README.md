@@ -3,6 +3,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00fff7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Srivardhan+!;" />
 </h1>
 
+<h3 align="center">I am a 3rd year CSE student at Sri Sivasubramaniya Nadar College of Engineering.  </h3>
+
+<br/>
+
+<div align="center">
+
+💬 Ask me about **Java, JS, Python, SQL ... or anything [here](https://github.com/SrivardhanS/SrivardhanS/issues)**.
+
+🦋 Fun fact: **Did you know? The first-ever computer bug was a real moth found in a computer in 1947 !**
+
+ </div>
+
+
 <h2 align="center">💻 Leetcode Info</h2>
 
 <p align="center">

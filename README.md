@@ -16,23 +16,6 @@
  </div>
 
 
-<h2 align="center">💻 Leetcode Info</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/srivardhan_s/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="Leetcode 1" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/srivardhan_s/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="Leetcode 2" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/srivardhan_s/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode 3" height="200" width="200" />
-  </a>
-</p>
-
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/srivardhan_s?theme=dark&font=Nunito&ext=heatmap" />
-</p>
 
 <!-- sqlite, safari, google-chrome are other good icon options -->
 <!-- <a href="https://twitter.com/yourusername" target="_blank"> 
@@ -62,6 +45,24 @@
   <br/>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrivardhanS&hide=Jupyter%20Notebook&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<h2 align="center">💻 Leetcode Info</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/srivardhan_s/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="Leetcode 1" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/srivardhan_s/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="Leetcode 2" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/srivardhan_s/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode 3" height="200" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/srivardhan_s?theme=dark&font=Nunito&ext=heatmap" />
+</p>
 
 <!-- This might require some future updates -->
 <h2 align="center">💬 Connect with me</h2>
